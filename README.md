@@ -21,16 +21,6 @@ This repository contains the code and documentation for a 4-DOF (Degrees of Free
 
 ---
 
-## 📷 Project Overview
-
-![Top View](./assets/top_view.jpg)  
-*Top view of the implemented robotic arm model*
-
-![Side View](./assets/side_view.jpg)  
-*Side view of the implemented robotic arm model*
-
----
-
 ## 🛠️ How to Use
 
 ### 1. Requirements
